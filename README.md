@@ -1,3 +1,3 @@
 # hello-world
-github introduction 
-\nHi I am not a robot, I swear!
+github introduction: 
+Hi I am not a robot, I swear!
